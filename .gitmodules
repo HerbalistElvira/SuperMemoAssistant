@@ -1,0 +1,42 @@
+[submodule "libs/Process.NET"]
+	path = libs/Process.NET
+	url = https://github.com/supermemo/Process.NET.git
+[submodule "libs/pngcs"]
+	path = libs/pngcs
+	url = https://github.com/supermemo/pngcs.git
+[submodule "src/Plugins/SuperMemoAssistant.Plugins.LateX"]
+	path = src/Plugins/SuperMemoAssistant.Plugins.LateX
+	url = https://github.com/supermemo/SuperMemoAssistant.Plugins.LateX.git
+[submodule "src/Plugins/SuperMemoAssistant.Plugins.PDF"]
+	path = src/Plugins/SuperMemoAssistant.Plugins.PDF
+	url = https://github.com/supermemo/SuperMemoAssistant.Plugins.PDF.git
+[submodule "src/Plugins/SuperMemoAssistant.Plugins.ImageOcclusion"]
+	path = src/Plugins/SuperMemoAssistant.Plugins.ImageOcclusion
+	url = https://github.com/supermemo/SuperMemoAssistant.Plugins.ImageOcclusion.git
+[submodule "src/Plugins/SuperMemoAssistant.Plugins.MediaPlayer"]
+	path = src/Plugins/SuperMemoAssistant.Plugins.MediaPlayer
+	url = https://github.com/supermemo/SuperMemoAssistant.Plugins.MediaPlayer.git
+[submodule "src/Plugins/SuperMemoAssistant.Plugins.Dictionary"]
+	path = src/Plugins/SuperMemoAssistant.Plugins.Dictionary
+	url = https://github.com/supermemo/SuperMemoAssistant.Plugins.Dictionary.git
+[submodule "src/Plugins/SuperMemoAssistant.Plugins.Dictionary.Interop"]
+	path = src/Plugins/SuperMemoAssistant.Plugins.Dictionary.Interop
+	url = https://github.com/supermemo/SuperMemoAssistant.Plugins.Dictionary.Interop.git
+[submodule "src/Plugins/SuperMemoAssistant.Plugins.Import"]
+	path = src/Plugins/SuperMemoAssistant.Plugins.Import
+	url = https://github.com/supermemo/SuperMemoAssistant.Plugins.Import.git
+[submodule "src/Plugins/SuperMemoAssistant.Plugins.Import.BrowserExtension"]
+	path = src/Plugins/SuperMemoAssistant.Plugins.Import.BrowserExtension
+	url = https://github.com/supermemo/SuperMemoAssistant.Plugins.Import.BrowserPlugin.git
+[submodule "libs/Squirrel.Windows"]
+	path = libs/Squirrel.Windows
+	url = https://github.com/supermemo/Squirrel.Windows.git
+[submodule "libs/PluginManager"]
+	path = libs/PluginManager
+	url = https://github.com/alexis-/PluginManager.Net.git
+[submodule "libs/MSBuild.Tools"]
+	path = libs/MSBuild.Tools
+	url = https://github.com/alexis-/MSBuild.Tools.git
+[submodule "libs/Extensions.System.IO"]
+	path = libs/Extensions.System.IO
+	url = https://github.com/alexis-/Extensions.System.IO.git
